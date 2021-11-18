@@ -1,4 +1,4 @@
-# THESPARKFOUNDATION-TASK-3
+# THE SPARK FOUNDATION-TASK-3
 This is a simple website hosting a simple Payment Gateway Integration using sandbox temporary account.
 
 CREATED A SIMPLE WEBISTE WHERE PAYMENT GATEWAY IS INTEGRATED.
